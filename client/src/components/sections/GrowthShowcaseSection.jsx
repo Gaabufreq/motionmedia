@@ -11,7 +11,6 @@ import {
   ArrowRight,
   Smartphone,
   Eye,
-  Sliders,
 } from "lucide-react";
 
 export const GrowthShowcaseSection = () => {

@@ -1,6 +1,6 @@
 import React from "react";
 import { AGENCY_CONFIG, NAV_LINKS } from "../../utils/constants";
-import { ArrowUpRight, Heart } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 
 const FOOTER_SERVICES = [
   { name: "Web Design", href: "#services" },

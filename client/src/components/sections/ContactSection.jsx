@@ -16,7 +16,6 @@ import {
   AlertCircle,
   Clock,
   Briefcase,
-  HelpCircle,
 } from "lucide-react";
 
 const SERVICE_OPTIONS = [
