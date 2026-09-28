@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://youragency.com/sitemap.xml
+Sitemap: https://motionmedia-five.vercel.app/sitemap.xml
