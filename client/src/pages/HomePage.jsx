@@ -135,8 +135,8 @@ const DeferredSection = ({
 export const HomePage = () => {
   return (
     <Layout
-      title="Digital Experience Agency"
-      description="We design, build, and scale digital experiences that help businesses grow."
+      title="Motion Media | Digital Experience Agency"
+      description="Motion Media is a digital experience agency specializing in web design, web development, digital marketing, SEO, and creative ad solutions."
     >
       {/* Immediate LCP content */}
       <HeroSection />
